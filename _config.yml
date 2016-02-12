@@ -1,7 +1,7 @@
 name: Playing on a Grid
 favicon: null
-layout_spectrum: 0.31088236602954566
-typography_spectrum: 0.5748273234348744
+layout_spectrum: 0.25129
+typography_spectrum: 0.85731
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.6600266771856695
-  lightness: 0.6860112617723644
-  saturation: 0.5467946953140199
-  rhythmicContrast: 0.5652011232450604
+  lightness: 0.0625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
