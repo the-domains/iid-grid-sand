@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Playing on a Grid]]></title>
+        <description><![CDATA[Playing on a Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 22:56:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey That's Clever: Native Advertising.]]></title>
+            <description><![CDATA[<article><h1>Hey That's Clever: Native Advertising.</h1><p>I'm going to assume that most of the people who've found my little spot on the net know just what native advertising is. But I'm also going to assume that some of the people don't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/746eb8f101017d06c90257accb64081c5ce91099.png"></article>]]></description>
+            <link>undefinedhey-thats-clever-native-advertising/index.html</link>
+            <guid isPermaLink="false">a5db1e9c-f7e5-416e-a051-09afd94c09b8</guid>
+            <pubDate>Thu, 18 Feb 2016 22:55:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
