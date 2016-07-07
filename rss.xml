@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Playing on a Grid]]></title>
         <description><![CDATA[Playing on a Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iid-grid-sand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 22:56:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 09:55:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iid-grid-sand/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Now You See Me Isn't a Heist Film]]></title>
+            <description><![CDATA[<p>This is one of those things that I felt I wanted to revisit, now that Now You See Me 2 is close to completing its theatrical run.</p>]]></description>
+            <link>https://thegrid.ai/iid-grid-sand/why-now-you-see-me-isnt-a-heist-film/index.html</link>
+            <guid isPermaLink="false">332f905a-2e1e-413c-9c29-c304580dd684</guid>
+            <pubDate>Thu, 07 Jul 2016 09:55:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hey That's Clever: Native Advertising.]]></title>
-            <description><![CDATA[<article><h1>Hey That's Clever: Native Advertising.</h1><p>I'm going to assume that most of the people who've found my little spot on the net know just what native advertising is. But I'm also going to assume that some of the people don't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/746eb8f101017d06c90257accb64081c5ce91099.png"></article>]]></description>
-            <link>undefinedhey-thats-clever-native-advertising/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4235c208-2ff1-48a9-97f9-af4585289a66.png">]]></description>
+            <link>https://thegrid.ai/iid-grid-sand/hey-thats-clever-native-advertising/index.html</link>
             <guid isPermaLink="false">a5db1e9c-f7e5-416e-a051-09afd94c09b8</guid>
             <pubDate>Thu, 18 Feb 2016 22:55:57 GMT</pubDate>
         </item>
